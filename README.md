@@ -1,0 +1,1 @@
+Hi, this is a small tool for company financial analysis. Before using it, please make sure you have an API key of "Financial Modeling Prep" first. If you don't have it, please visit "https://site.financialmodelingprep.com/developer". After you get the API, please paste it to "API.txt". Now you are good to go!
